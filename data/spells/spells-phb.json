@@ -10,13 +10,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -26,7 +26,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -101,13 +101,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -120,7 +120,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -269,13 +269,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -288,7 +288,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -390,7 +390,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -407,7 +407,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -540,13 +540,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -559,7 +559,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -647,13 +647,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -666,7 +666,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -736,13 +736,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -754,7 +754,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					},
 					"concentration": true
@@ -791,13 +791,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -808,7 +808,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -909,13 +909,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -1096,13 +1096,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -1114,7 +1114,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -1208,13 +1208,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "sphere",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -1227,7 +1227,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -1320,7 +1320,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -1409,13 +1409,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -1428,7 +1428,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -1578,13 +1578,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 500
 				}
 			},
@@ -1639,7 +1639,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -1726,7 +1726,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -1744,7 +1744,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -1850,13 +1850,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -1866,7 +1866,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -1939,7 +1939,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -2003,7 +2003,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -2022,7 +2022,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"meta": {
@@ -2125,13 +2125,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -2283,13 +2283,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -2432,13 +2432,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -2586,7 +2586,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -2647,13 +2647,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -2878,13 +2878,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -3108,7 +3108,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -3126,7 +3126,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -3199,13 +3199,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -3324,7 +3324,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -3340,7 +3340,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -3405,7 +3405,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -3552,13 +3552,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -3699,13 +3699,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -3755,7 +3755,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -3817,13 +3817,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -3924,13 +3924,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -3940,7 +3940,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -4210,13 +4210,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -4352,7 +4352,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -4467,7 +4467,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -4723,13 +4723,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 15
 				}
 			},
@@ -4739,7 +4739,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -4936,13 +4936,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -5056,13 +5056,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -5181,13 +5181,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -5198,7 +5198,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -5252,13 +5252,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -5270,7 +5270,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -5450,13 +5450,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -5546,13 +5546,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -5566,7 +5566,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -5635,13 +5635,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -5655,7 +5655,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -5707,13 +5707,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -5798,7 +5798,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -5947,7 +5947,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -5976,13 +5976,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -6052,13 +6052,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -6234,13 +6234,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 15
 				}
 			},
@@ -6314,13 +6314,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -6545,7 +6545,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -6658,7 +6658,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -6673,7 +6673,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"meta": {
@@ -6807,7 +6807,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -6903,7 +6903,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -6921,7 +6921,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -6995,13 +6995,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -7116,13 +7116,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -7133,7 +7133,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -7329,13 +7329,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -7552,13 +7552,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -7570,7 +7570,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -7664,13 +7664,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -7681,7 +7681,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -7739,13 +7739,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -7757,7 +7757,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -7802,13 +7802,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -7821,7 +7821,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -7923,13 +7923,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -7941,7 +7941,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -7991,13 +7991,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -8009,7 +8009,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -8097,13 +8097,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -8114,7 +8114,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -8158,13 +8158,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -8177,7 +8177,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -8236,7 +8236,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -8301,7 +8301,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -8460,7 +8460,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -8511,7 +8511,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -8596,13 +8596,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 300
 				}
 			},
@@ -8791,7 +8791,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -8810,7 +8810,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					},
 					"concentration": true
@@ -8954,13 +8954,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 5
 				}
 			},
@@ -8973,7 +8973,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -9028,7 +9028,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -9037,7 +9037,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -9147,13 +9147,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -9163,7 +9163,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -9268,13 +9268,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -9285,7 +9285,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -9381,13 +9381,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -9401,7 +9401,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -9451,13 +9451,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -9617,13 +9617,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -9721,13 +9721,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -9795,7 +9795,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -9810,7 +9810,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -9946,13 +9946,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -10037,13 +10037,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -10234,7 +10234,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -10252,7 +10252,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -10319,13 +10319,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -10337,7 +10337,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -10455,7 +10455,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -10472,7 +10472,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -10630,13 +10630,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -10704,13 +10704,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -10721,7 +10721,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -10769,13 +10769,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -10784,7 +10784,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -10873,7 +10873,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -10954,7 +10954,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -11076,7 +11076,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -11153,7 +11153,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -11295,13 +11295,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 500
 				}
 			},
@@ -11310,7 +11310,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -11428,7 +11428,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -11445,7 +11445,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -11611,13 +11611,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -11628,7 +11628,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -11683,7 +11683,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -11758,13 +11758,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -11774,7 +11774,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -11936,13 +11936,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -11951,7 +11951,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -12044,7 +12044,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -12064,7 +12064,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"meta": {
@@ -12258,7 +12258,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -12267,7 +12267,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -12317,13 +12317,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -12491,13 +12491,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -12509,7 +12509,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -12575,13 +12575,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -12787,7 +12787,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -12841,7 +12841,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -12856,7 +12856,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -12945,13 +12945,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -12961,7 +12961,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -13018,13 +13018,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 500
 				}
 			},
@@ -13111,13 +13111,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -13127,7 +13127,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -13166,7 +13166,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -13183,7 +13183,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -13320,7 +13320,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -13338,7 +13338,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -13539,13 +13539,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -13781,13 +13781,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -13893,13 +13893,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -13992,7 +13992,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -14009,7 +14009,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8,
 						"upTo": true
 					}
@@ -14086,13 +14086,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -14309,7 +14309,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -14401,13 +14401,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -14417,7 +14417,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -14491,13 +14491,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -14674,7 +14674,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -14692,7 +14692,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -14817,13 +14817,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -14952,7 +14952,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -15031,13 +15031,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -15048,7 +15048,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -15100,7 +15100,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -15118,7 +15118,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -15221,7 +15221,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -15236,7 +15236,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"meta": {
@@ -15276,13 +15276,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -15292,7 +15292,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -15325,7 +15325,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -15384,13 +15384,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -15400,7 +15400,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -15455,13 +15455,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -15471,7 +15471,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -15520,13 +15520,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -15536,7 +15536,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -15631,7 +15631,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -15822,13 +15822,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -15838,7 +15838,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -15882,13 +15882,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -15899,7 +15899,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -16147,13 +16147,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -16164,7 +16164,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -16366,13 +16366,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -16530,13 +16530,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -16621,7 +16621,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -16713,13 +16713,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -16731,7 +16731,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -16871,7 +16871,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -16933,13 +16933,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 100
 				}
 			},
@@ -16955,7 +16955,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -17002,7 +17002,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -17020,7 +17020,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -17071,7 +17071,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -17089,7 +17089,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -17295,7 +17295,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -17406,7 +17406,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -17424,7 +17424,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -17607,13 +17607,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -17684,13 +17684,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -17790,7 +17790,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -17898,13 +17898,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -18002,7 +18002,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -18018,7 +18018,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -18050,13 +18050,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -18276,7 +18276,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -18292,7 +18292,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -18339,7 +18339,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -18413,13 +18413,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -18490,7 +18490,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -18722,7 +18722,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -18742,7 +18742,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -18878,13 +18878,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -18895,7 +18895,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -19034,7 +19034,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -19055,7 +19055,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -19135,7 +19135,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -19202,13 +19202,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -19315,13 +19315,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -19742,13 +19742,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 300
 				}
 			},
@@ -19761,7 +19761,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -19839,13 +19839,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -19855,7 +19855,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -19893,13 +19893,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -20074,13 +20074,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -20090,7 +20090,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -20143,7 +20143,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -20152,7 +20152,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -20223,13 +20223,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -20361,7 +20361,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -20371,7 +20371,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -20460,13 +20460,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -20481,7 +20481,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -20530,7 +20530,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -20700,7 +20700,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -20713,7 +20713,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -20777,13 +20777,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -20957,13 +20957,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -21177,7 +21177,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -21235,13 +21235,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -21325,7 +21325,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -21336,7 +21336,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -21410,13 +21410,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -21542,13 +21542,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 300
 				}
 			},
@@ -21559,7 +21559,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -21697,7 +21697,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -21716,7 +21716,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"meta": {
@@ -21801,7 +21801,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -21878,13 +21878,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -21993,13 +21993,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -22067,7 +22067,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -22082,7 +22082,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -22149,13 +22149,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 300
 				}
 			},
@@ -22399,7 +22399,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -22417,7 +22417,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -22590,7 +22590,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -22707,13 +22707,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -22722,7 +22722,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -22777,7 +22777,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -22797,7 +22797,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -22902,7 +22902,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -22921,7 +22921,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -22990,13 +22990,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "hemisphere",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -23009,7 +23009,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -23079,7 +23079,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -23094,7 +23094,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -23215,13 +23215,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -23334,7 +23334,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -23351,7 +23351,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -23531,13 +23531,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 100
 				}
 			},
@@ -23548,7 +23548,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -23671,7 +23671,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -23687,7 +23687,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"meta": {
@@ -23750,7 +23750,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -23768,7 +23768,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -23916,7 +23916,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -24021,7 +24021,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -24039,7 +24039,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -24118,7 +24118,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -24136,7 +24136,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -24188,13 +24188,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -24374,13 +24374,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -24397,7 +24397,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -24526,7 +24526,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -24593,13 +24593,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -24609,7 +24609,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -24705,13 +24705,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -24800,7 +24800,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -24962,13 +24962,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -25048,13 +25048,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -25064,7 +25064,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -25167,13 +25167,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -25183,7 +25183,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -25222,7 +25222,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -25231,7 +25231,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -25326,13 +25326,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -25344,7 +25344,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -25406,13 +25406,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -25468,7 +25468,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -25485,7 +25485,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -25600,13 +25600,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -25617,7 +25617,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -25705,7 +25705,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -25721,7 +25721,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -25780,13 +25780,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -25879,7 +25879,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -25895,7 +25895,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -25939,7 +25939,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -25956,7 +25956,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -25991,13 +25991,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -26120,7 +26120,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -26176,7 +26176,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -26326,7 +26326,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -26342,7 +26342,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -26481,7 +26481,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -26658,13 +26658,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -26792,13 +26792,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -26904,13 +26904,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -26923,7 +26923,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -26979,13 +26979,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 300
 				}
 			},
@@ -27001,7 +27001,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -27035,13 +27035,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -27054,7 +27054,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -27131,13 +27131,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -27200,13 +27200,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -27219,7 +27219,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 2
 					},
 					"concentration": true
@@ -27263,7 +27263,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -27285,7 +27285,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -27380,7 +27380,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -27398,7 +27398,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -27459,13 +27459,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 300
 				}
 			},
@@ -27476,7 +27476,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -27533,13 +27533,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -27675,13 +27675,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -27735,7 +27735,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -27753,7 +27753,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -27858,13 +27858,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -27877,7 +27877,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -27971,13 +27971,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -28105,13 +28105,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -28251,13 +28251,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -28269,7 +28269,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -28324,13 +28324,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -28340,7 +28340,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -28380,7 +28380,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -28397,7 +28397,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -28521,7 +28521,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -28540,7 +28540,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -28594,7 +28594,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				},
 				{
 					"number": 8,
@@ -28604,7 +28604,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -28614,7 +28614,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -28734,13 +28734,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -28750,7 +28750,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -28825,13 +28825,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -28844,7 +28844,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -28931,7 +28931,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -28946,7 +28946,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -28995,13 +28995,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -29010,7 +29010,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -29054,13 +29054,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -29069,7 +29069,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -29120,13 +29120,13 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -29135,7 +29135,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -29198,13 +29198,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -29216,7 +29216,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1,
 						"upTo": true
 					}
@@ -29303,13 +29303,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "cone",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -29319,7 +29319,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -29441,13 +29441,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -29577,7 +29577,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -29663,13 +29663,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -29722,7 +29722,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -29797,7 +29797,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -29814,7 +29814,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -30032,7 +30032,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -30247,7 +30247,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -30264,7 +30264,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -30351,13 +30351,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -30367,7 +30367,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"meta": {
@@ -30451,7 +30451,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -30553,13 +30553,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -30572,7 +30572,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -30661,13 +30661,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -30794,13 +30794,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -30810,7 +30810,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -30896,13 +30896,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -30912,7 +30912,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -31039,7 +31039,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -31057,7 +31057,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -31120,7 +31120,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -31308,7 +31308,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -31323,7 +31323,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -31364,7 +31364,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -31459,7 +31459,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -31496,13 +31496,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 100
 				}
 			},
@@ -31560,7 +31560,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -31580,7 +31580,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -31712,7 +31712,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -31730,7 +31730,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -31821,13 +31821,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -31837,7 +31837,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -31920,7 +31920,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -32073,13 +32073,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -32089,7 +32089,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -32240,7 +32240,7 @@
 			"time": [
 				{
 					"number": 10,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -32599,7 +32599,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -32617,7 +32617,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -32694,13 +32694,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -32712,7 +32712,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -32846,7 +32846,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -32977,7 +32977,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -33034,7 +33034,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -33055,7 +33055,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -33100,13 +33100,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -33117,7 +33117,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -33424,7 +33424,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -33579,7 +33579,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -33594,7 +33594,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -33673,13 +33673,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -33828,13 +33828,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -33958,13 +33958,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -34107,13 +34107,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -34277,13 +34277,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -34413,7 +34413,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -34428,7 +34428,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -34507,7 +34507,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -34615,13 +34615,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -34743,13 +34743,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -34821,7 +34821,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -34839,7 +34839,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -34947,13 +34947,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -35095,13 +35095,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "radius",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 15
 				}
 			},
@@ -35208,7 +35208,7 @@
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -35423,13 +35423,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 90
 				}
 			},
@@ -35541,7 +35541,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -35557,7 +35557,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -35676,7 +35676,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -35698,7 +35698,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -35868,7 +35868,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -35963,13 +35963,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -35981,7 +35981,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					},
 					"concentration": true
@@ -36074,13 +36074,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "line",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -36151,13 +36151,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 150
 				}
 			},
@@ -36168,7 +36168,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -36270,7 +36270,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -36421,13 +36421,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -36507,13 +36507,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -36619,7 +36619,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -36637,7 +36637,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -36669,13 +36669,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -36684,7 +36684,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -36829,13 +36829,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -36965,13 +36965,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -36984,7 +36984,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -37040,13 +37040,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -37171,13 +37171,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -37188,7 +37188,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -37323,13 +37323,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "cube",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 15
 				}
 			},
@@ -37339,7 +37339,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -37545,7 +37545,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -37559,7 +37559,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -37590,7 +37590,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -37607,7 +37607,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -37681,13 +37681,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 10
 				}
 			},
@@ -37730,7 +37730,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -37813,13 +37813,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -37832,7 +37832,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -37926,7 +37926,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -37964,7 +37964,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -37986,7 +37986,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -38030,13 +38030,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -38095,7 +38095,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
@@ -38156,13 +38156,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -38175,7 +38175,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -38230,7 +38230,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -38356,13 +38356,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -38371,7 +38371,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -38434,13 +38434,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -38613,13 +38613,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -38760,13 +38760,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -38830,13 +38830,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -38983,13 +38983,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -39053,7 +39053,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -39074,7 +39074,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -39212,13 +39212,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -39231,7 +39231,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 24
 					}
 				}
@@ -39331,13 +39331,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -39350,7 +39350,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					}
 				}
@@ -39446,13 +39446,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
@@ -39465,7 +39465,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 1
 					},
 					"concentration": true
@@ -39613,13 +39613,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -39684,13 +39684,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 分鐘"
+					"unit": "minute"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -39703,7 +39703,7 @@
 				{
 					"type": "timed",
 					"duration": {
-						"type": " 小時",
+						"type": "hour",
 						"amount": 8
 					}
 				}
@@ -39741,13 +39741,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 120
 				}
 			},
@@ -39881,7 +39881,7 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
@@ -39895,7 +39895,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -39981,13 +39981,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 30
 				}
 			},
@@ -40056,13 +40056,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 5
 				}
 			},
@@ -40071,7 +40071,7 @@
 			},
 			"duration": [
 				{
-					"type": "即效"
+					"type": "instant"
 				}
 			],
 			"entries": [
@@ -40196,13 +40196,13 @@
 			"time": [
 				{
 					"number": 1,
-					"unit": " 個動作"
+					"unit": "action"
 				}
 			],
 			"range": {
 				"type": "point",
 				"distance": {
-					"type": " 呎",
+					"type": "feet",
 					"amount": 60
 				}
 			},
